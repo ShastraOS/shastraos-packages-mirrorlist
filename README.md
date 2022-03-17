@@ -11,5 +11,5 @@ These packages are also availble on Arch User Repository
 
  Will also incude Shastra Wallet and Wallet Manager
 
-Required for build file of Shastra
+Required for build file of Shastra, 
 Put inside 'opt' folder
