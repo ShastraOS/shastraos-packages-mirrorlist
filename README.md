@@ -1,5 +1,5 @@
 Packages required for Shastra from
-Arch User Repository (Chaotic AUR x86_64)
+Arch User Repository and Our extra Packages are inside this Shastra Repository
 
 - pamac-aur
 - brave-bin
