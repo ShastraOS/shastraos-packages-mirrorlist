@@ -20,7 +20,7 @@ yay -S package-name
 ```
 ###### Refer [AUR](https://aur.archlinux.org/packages) to get pkgs names.
 
-##### To get the pkg in .pkg.tar.zst format
+##### To get the package in .pkg.tar.zst format
 - Go to your home directory and find hidden file '.yay'
 - To turn on your hidden files 
 <img src="https://i.ibb.co/NC8jVcZ/hiddenfiles.png" width="200px">
