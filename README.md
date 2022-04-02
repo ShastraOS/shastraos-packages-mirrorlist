@@ -24,6 +24,8 @@ yay -S package-name
 - Go to your home directory and find hidden file '.yay'
 - To turn on your hidden files 
 <img src="https://i.ibb.co/NC8jVcZ/hiddenfiles.png" width="200px">
+
 - Open your pkg folder
+
 - Copy the pkg to shastra-repo
 - You will also find PKGBUILD, copy it to PKGBUILD github repository
