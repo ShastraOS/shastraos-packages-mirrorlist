@@ -1,6 +1,6 @@
 ### Packages required for Shastra from Shastra Repository
 
-- Brave bin also inculded in db
+- brave-bin and onlyoffice-bin also inculded in db
 
 ##### To add other packages
 - Clone the repo
