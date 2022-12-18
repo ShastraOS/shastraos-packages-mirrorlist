@@ -2,8 +2,16 @@
 # ShastraOS Mirrorlist
 
 ## Worldwide
-### IPFS
+
+### IPFS - repo.shastraos.org
+# Server =  --was not working-- --will fix soon--
+
+### IPFS - Lighthouse
 Server = https://gateway.lighthouse.storage/ipfs/QmXSa88BoP7kK4GHkBp87emr575SSFY2zER2uF3BkRafS3/
+
+### IPFS - Lighthouse 2 (with shastrarepo-0.1-1-any.pkg.tar.zst and internal server(centralized) packages)
+# Server = https://gateway.lighthouse.storage/ipfs/QmXSa88BoP7kK4GHkBp87emr575SSFY2zER2uF3BkRafS3/x86_64/
+# To be stopped
 
 ### Arweave - soon
 ### Filecoin - soon
