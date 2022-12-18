@@ -1,4 +1,10 @@
-## ShastraOS Mirrorlist
+
+# ShastraOS Mirrorlist
 
 ## Worldwide
-Server = https://gitlab.com/shastraos/$repo/-/raw/main/$arch
+### IPFS
+Server = https://gateway.lighthouse.storage/ipfs/QmXSa88BoP7kK4GHkBp87emr575SSFY2zER2uF3BkRafS3/
+
+### Arweave - soon
+### Filecoin - soon
+

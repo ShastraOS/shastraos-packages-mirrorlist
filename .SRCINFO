@@ -1,0 +1,12 @@
+pkgbase = shastrarepo
+	pkgdesc = ShastraOS Packages Repository
+	pkgver = 0.1
+	pkgrel = 1
+	url = https://gitlab.com/shastra-os/shastraos-packages-mirrorlist
+	arch = any
+	license = GPL3
+	
+	source = ($pkgname)
+	sha512sums = 335850fc46fb5212ff2887fe85bf96c8bc38195577209cc44610065d9053ccbc6d49a6f570c4a88d29d8259808bfa883f52d862176a25d4b5dbbb83e8252e104
+
+pkgname = gestures
