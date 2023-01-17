@@ -2,7 +2,7 @@ pkgbase = shastrarepo
 	pkgdesc = ShastraOS Packages Repository
 	pkgver = 0.1
 	pkgrel = 1
-	url = https://gitlab.com/shastra-os/shastraos-packages-mirrorlist
+	url = https://gitlab.com/shastraos/shastraos-packages-mirrorlist
 	arch = any
 	license = GPL3
 	
