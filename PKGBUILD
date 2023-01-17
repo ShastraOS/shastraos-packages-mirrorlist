@@ -4,7 +4,7 @@ pkgname="shastrarepo"
 pkgver=0.1.2
 pkgrel=2
 pkgdesc='ShastraOS Repo'
-url="https://github.com/shastra-os/shastrarepo"
+url="https://github.com/shastraos/shastrarepo"
 arch=('any')
 license=('GPL3')
 
